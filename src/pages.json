@@ -3,9 +3,21 @@
 		{
 			"path": "pages/index/index",
 			"style": {
-				"navigationBarTitleText": "uni-app"
+				"navigationBarTitleText": "戴口罩"
 			}
-		}
+        },
+        {
+            "path": "pages/imageeditor/imageeditor",
+            "style": {
+                "navigationBarTitleText": "戴口罩"
+            }
+        },
+        {
+            "path": "pages/combine/combine",
+            "style": {
+                "navigationBarTitleText": "戴口罩"
+            }
+        }
 	],
 	"globalStyle": {
 		"navigationBarTextStyle": "black",
